@@ -1,5 +1,4 @@
 .idea/
-packages/
 packages/auth/.idea
 packages/auth/node_modules/
 packages/container/.idea
