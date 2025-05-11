@@ -1,0 +1,12 @@
+.idea/
+packages/
+packages/auth/.idea
+packages/auth/node_modules/
+packages/container/.idea
+packages/container/node_modules/
+packages/dashboard/.idea
+packages/dashboard/node_modules/
+packages/marketing/.idea
+packages/marketing/node_modules/
+.DS_Store
+packages/.DS_Store
